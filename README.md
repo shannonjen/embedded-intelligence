@@ -78,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to fork, bu
 Hi, I’m **Jen Shannon**, a technical learning and enablement leader passionate about AI, knowledge management, and workforce development. I'm using this project to explore how we might bring learning and documentation closer together in modern organizations.
 
 Let’s connect:
-- [LinkedIn](https://www.linkedin.com/in/jenshannon/)
+- [LinkedIn](https://www.linkedin.com/in/jen-shannon/)
 - [Website](https://www.jenshannon.tech)
 
 
